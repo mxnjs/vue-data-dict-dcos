@@ -1,0 +1,1 @@
+const t=JSON.parse(`{"key":"v-0093933c","path":"/api/config/fallbackDict.html","title":"回退字典","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"metas['*']","slug":"metas","link":"#metas","children":[]}],"git":{},"filePathRelative":"api/config/fallbackDict.md"}`);export{t as data};

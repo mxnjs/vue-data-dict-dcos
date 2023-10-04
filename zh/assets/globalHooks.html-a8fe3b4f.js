@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-3c6c3acb","path":"/api/config/globalHooks.html","title":"全局数据字典钩子","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"onCreated","slug":"oncreated","link":"#oncreated","children":[]},{"level":2,"title":"onReady","slug":"onready","link":"#onready","children":[]}],"git":{},"filePathRelative":"api/config/globalHooks.md"}');export{e as data};

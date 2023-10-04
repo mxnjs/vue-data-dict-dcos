@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-b87bd120","path":"/api/config/dictOptions.html","title":"字典选项","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"DictOptions","slug":"dictoptions","link":"#dictoptions","children":[]}],"git":{},"filePathRelative":"api/config/dictOptions.md"}');export{t as data};

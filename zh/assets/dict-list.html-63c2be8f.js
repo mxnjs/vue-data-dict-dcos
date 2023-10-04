@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-1fc7237a","path":"/api/use/dict-list.html","title":"罗列字典","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"dict.data[dictType]","slug":"dict-data-dicttype","link":"#dict-data-dicttype","children":[]}],"git":{},"filePathRelative":"api/use/dict-list.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-7aa888a6","path":"/api/config/pluginOptions.html","title":"数据字典插件配置","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"DataDictPluginOptions","slug":"datadictpluginoptions","link":"#datadictpluginoptions","children":[]}],"git":{},"filePathRelative":"api/config/pluginOptions.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-210f6acb","path":"/api/use/dict-request.html","title":"字典数据请求","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"","slug":"","link":"#","children":[]}],"git":{},"filePathRelative":"api/use/dict-request.md"}');export{e as data};
